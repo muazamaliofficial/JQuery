@@ -1,0 +1,10 @@
+body {
+  padding: 50px;
+}
+
+.notice {
+  background: lightblue;
+  padding: 20px;
+  border-radius: 3px;
+  display: none;
+}
